@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranaya Shrestha</h1>
-<h3 align="center">💻 Undergraduate Computer Engineering Student | 🌐 Web & Python Developer | 🔐 Cybersecurity Enthusiast</h3>
+<h3 align="center">🎓 Undergraduate Computer Engineering Student | 🛠️ Learning Web, Linux & Python | 🔐 Interested in Cybersecurity</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranaya890&label=Profile%20views&color=0e75b6&style=flat" alt="pranaya890" />
@@ -7,13 +7,12 @@
 
 ---
 
-### 🚀 About Me
+### 🙋‍♂️ About Me
 
-- 🎓 I'm currently pursuing Computer Engineering.
-- 🔭 I’m working on: [Library Management System](https://github.com/pranaya890/library_management)
-- 🌱 Learning: **Linux, Cybersecurity, and Django**
-- 💡 Interests: Full-Stack Development, Open Source, and Ethical Hacking
-- 🌐 Portfolio: [pranayashrestha8.com.np](https://www.pranayashrestha8.com.np/)
+- 🎓 I’m studying **Computer Engineering** at Khwopa Engineering College.
+- 🛠️ I'm exploring topics like **Linux, Python, and basic web development**.
+- 🔐 I'm also interested in **Cybersecurity** and ethical hacking.
+- 🌐 You can find my personal site at: [pranayashrestha8.com.np](https://www.pranayashrestha8.com.np/)
 - 📫 Reach me at: **sthapranaya890@gmail.com**
 
 ---
@@ -27,7 +26,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧠 Skills I’m Learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
@@ -39,9 +38,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
 </p>
+
+---
+
+### 📚 Projects I'm Exploring
+
+- 📘 [Library Management System](https://github.com/pranaya890/library_management) – A simple project using Python and SQLite
 
 ---
 
